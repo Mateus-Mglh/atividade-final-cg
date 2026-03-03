@@ -21,3 +21,4 @@ C:\msys64\mingw64\bin\g++.exe main.cpp src/audio/AudioEngine.cpp src/audio/Audio
 
 # Demonstração
 
+[Assista à demonstração do jogo](https://youtu.be/Dw8HDyjDA_A)
